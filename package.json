@@ -1,0 +1,28 @@
+{
+  "name": "teaminfo-generator",
+  "version": "1.0.0",
+  "description": "team information generator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idjh263/OOP_TeamInfo_Generator-.git"
+  },
+  "keywords": [
+    "oop"
+  ],
+  "author": "irene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idjh263/OOP_TeamInfo_Generator-/issues"
+  },
+  "homepage": "https://github.com/idjh263/OOP_TeamInfo_Generator-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
