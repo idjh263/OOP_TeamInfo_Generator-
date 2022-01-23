@@ -21,6 +21,8 @@
 
 ![alt text](assets/images/team-info_1.png)
 
+/Users/irenehipolito/Desktop/untitled folder 2/OOP_assignment /OOP_TeamInfo_Generator-/assets/images/team-generator.gif
+
 Built with:
 
 - HTML
