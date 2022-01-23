@@ -21,7 +21,11 @@
 
 ![alt text](assets/images/team-info_1.png)
 
-https://github.com/idjh263/OOP_TeamInfo_Generator-/blob/main/assets/images/team-generator.gif?raw=true
+
+
+https://user-images.githubusercontent.com/92761848/150701188-d9321ad8-cfbe-4cc0-8f10-89ea1b307da8.mp4
+
+
 
 Built with:
 
